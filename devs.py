@@ -1,7 +1,4 @@
-AUTH_USERS.add(1701601729)
+AUTH_USERS.add(1981831553)
 
-OWNER_USERNAME.add(@kunaldiwan)
+OWNER_USERNAME.add(@Telecat_X)
 
-CUSTOM = THIS BOT IS V2 VERSION OF RENAMER . FULL BOT CREDIT GOES TO No-OnE-Kn0wS-Me .
-
-##### powered by @DevelopedBots 
